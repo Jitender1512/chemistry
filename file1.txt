@@ -1,0 +1,2 @@
+Master branch is the default branchwhich gets created
+when you initialize the local repository.
