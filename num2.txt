@@ -1,0 +1,17 @@
+    If you don't have PowerShell V4 or later:
+
+    Use the free online verifier tool on the Microsoft website.
+
+        Download the file and extract it.
+
+        Open a Command Prompt window.
+
+        Navigate to the file.
+
+        Run the following command:
+
+        Start-PsFCIV -Path C:\path\to\file.ext -HashAlgorithm SHA256 -Online
+
+macOS: In iTerm or a terminal window enter shasum -a 256 filename.
+
+Linux: In a terminal window enter sha256sum filename.
