@@ -1,0 +1,6 @@
+f you have PowerShell V4 or later:
+
+Open a PowerShell console and verify the file as follows:
+
+Get-FileHash filename -Algorithm SHA256
+
