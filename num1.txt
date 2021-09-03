@@ -1,0 +1,23 @@
+SHA-256 checksums are available for Miniconda and Anaconda. We do not recommend using MD5 verification as SHA-256 is more secure.
+
+Download the installer file and before installing verify it as follows:
+
+    Windows:
+
+        If you have PowerShell V4 or later:
+
+        Open a PowerShell console and verify the file as follows:
+
+        Get-FileHash filename -Algorithm SHA256
+
+        If you don't have PowerShell V4 or later:
+
+        Use the free online verifier tool on the Microsoft website.
+
+            Download the file and extract it.
+
+            Open a Command Prompt window.
+
+            Navigate to the file.
+
+            Run the following command:
