@@ -4,3 +4,5 @@ Open a PowerShell console and verify the file as follows:
 
 Get-FileHash filename -Algorithm SHA256
 
+1st install conda on pc
+
